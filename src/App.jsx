@@ -1,4 +1,4 @@
-import ARScene from "./ARScene";
+import ARScene from './ARScene';
 
 function App() {
   return (
