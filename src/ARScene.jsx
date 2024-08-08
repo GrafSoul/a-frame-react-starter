@@ -5,7 +5,7 @@ const ARScene = () => {
     <a-scene>
       <a-camera>
         <a-cursor
-          gltf-model="https://github.com/GrafSoul/a-frame-react-starter/raw/main/models/chinese_chandelier.glb"
+          gltf-model="https://grafsoul.github.io/a-frame-react-starter/photo-camera.glb"
           position="0 0 -1"
           scale="2 2 2"
           animation="property: rotation; to: 0 360 0; loop: true; dur: 5000"></a-cursor>
